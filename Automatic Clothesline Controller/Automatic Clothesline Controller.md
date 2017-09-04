@@ -1,9 +1,10 @@
-# Automatic Clothesline Controller
+﻿# Automatic Clothesline Controller
 ## The concept of this project is a mobile controller that can manipulate the Automatic clothesline that we have created. the mobile application is connected through the use of internet network technology and the use of port forwarding to accept and perform the request from the controller. 
 (we will not make use of API in this proposal)
 
 ### Statement of the Problem
 here are the problems that the mobile application should solve.
+
 	1. Conflict on the schedule A lot of people are going to work early but unfortunately late when arriving home that's why they don't have the time to air dry their laundry causing it to have an unpleasant smell.  
  
 	2. Unpredictable weather Despite new technology, 100% accuracy in weather prediction is not possible. That's why when you leave your laundry outside while it's raining, it causes it to not smell good. 
